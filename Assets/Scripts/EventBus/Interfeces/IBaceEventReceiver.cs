@@ -1,0 +1,1 @@
+﻿public interface IBaceEventReceiver { }; // Базовый интерфейс для слушателя
